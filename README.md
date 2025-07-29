@@ -1,6 +1,5 @@
-# NehaHarish_Sahyadri_College_of_Engineering_and_Management_React_Task_3
 
-## Paginarion And Sorting
+# Pagination And Sorting
 
 Project info:
 
